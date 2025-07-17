@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-djkz-bruno-api-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-djkz-bruno-api-mcp)
+
 # Bruno API MCP Server
 
 A Model Context Protocol (MCP) server that exposes Bruno API collections as MCP tools. This server allows you to interact with your Bruno API collections through the MCP protocol, making your API collections accessible to AI agents and other MCP clients.
